@@ -1,0 +1,29 @@
+---
+title:
+description:
+date:
+tags:
+year:
+monthPl:
+monthEn:
+day:
+location:
+---
+
+<span class="poem">
+
+</span>
+
+<span class="dateLocation">
+<br> {{ day }} {{ monthPl }} {{ year }} <br>
+{{ location }} <br>
+</span>
+
+<span class="translation">
+
+</span>
+
+<span class="dateLocation">
+<br> {{ day }} {{ monthPl }} {{ year }} <br>
+{{ location }} <br>
+</span>

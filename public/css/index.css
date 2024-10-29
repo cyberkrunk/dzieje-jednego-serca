@@ -202,7 +202,7 @@ header {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: baseline;
-	counter-increment: start-from -1;
+	counter-increment: start-from 1;
 	margin-bottom: 1em;
 }
 .postlist-item:before {
@@ -260,3 +260,14 @@ header {
 	margin-right: 1em;
 }
 
+.poem {
+	white-space: pre-wrap;
+}
+
+.translation {
+	white-space: pre-wrap;
+}
+
+.dateLocation {
+	
+}
