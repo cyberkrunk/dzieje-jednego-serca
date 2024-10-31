@@ -10,22 +10,26 @@ day:
 location:
 ---
 
-<span class="poem">
+<div class="indent">
+<div class="poem">
 
-</span>
+</div>
 
-<span class="dateLocation">
+<div class="dateLocation">
 <br> {{ day }} {{ monthPl }} {{ year }} <br>
 {{ location }} <br>
-</span>
+</div>
+</div>
 
 <h1>{{ description }}</h1>
 
-<span class="translation">
+<div class="indent">
+<div class="translation">
 
-</span>
+</div>
 
-<span class="dateLocation">
+<div class="dateLocation">
 <br> {{ day }} {{ monthEn }} {{ year }} <br>
 {{ location }} <br>
-</span>
+</div>
+</div>
