@@ -9,7 +9,7 @@ const eleventyNavigation = {
 
 ## Wiersze
 
-## Czesław Jankowski 
+## Czesława Jankowskiego 
 ### (1930-2002)
 
 <hr>
