@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: Georgia, "Times New Roman", serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -57,7 +57,8 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 40em;
+	max-width: 45em;
+	background-color:  	#FCF5E5;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -71,10 +72,28 @@ body {
 	width: 1px;
 }
 
+h1{
+	padding-left: 2rem;
+	font-size: 24px;
+	line-height: 1;
+}
+
+h2{
+	padding-left: 2rem;
+	font-size: 20px;
+}
+
+h3{
+	padding-left: 2rem;
+	font-size: 18px;
+}
+
 p:last-child {
 	margin-bottom: 0;
 }
 p {
+	padding-left: 4em;
+	padding-right: 4em;
 	line-height: 1.5;
 }
 
@@ -261,13 +280,21 @@ header {
 }
 
 .poem {
-	white-space: pre-wrap;
+	padding: 0;
+	margin: 0;
+	line-height: 1.6;
+	white-space: pre;
 }
 
 .translation {
-	white-space: pre-wrap;
+	line-height: 1.6;
+	white-space: pre;
 }
 
 .dateLocation {
-	
+
+}
+
+.indent {
+	margin-left: 4em;
 }

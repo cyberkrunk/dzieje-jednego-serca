@@ -19,11 +19,13 @@ location:
 {{ location }} <br>
 </span>
 
+<h1>{{ description }}</h1>
+
 <span class="translation">
 
 </span>
 
 <span class="dateLocation">
-<br> {{ day }} {{ monthPl }} {{ year }} <br>
+<br> {{ day }} {{ monthEn }} {{ year }} <br>
 {{ location }} <br>
 </span>

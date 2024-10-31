@@ -9,7 +9,8 @@ const eleventyNavigation = {
 
 ## Wiersze
 
-## Czesław Jankowski (1930-2002)
+## Czesław Jankowski 
+### (1930-2002)
 
 <hr>
 
@@ -17,4 +18,5 @@ const eleventyNavigation = {
 
 ## Poems
 
-## Czesław Jankowski (1930-2002)
+## Czesław Jankowski 
+### (1930-2002)
