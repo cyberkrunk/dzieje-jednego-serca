@@ -1,8 +1,5 @@
----js
-const eleventyNavigation = {
-	key: "Home",
-	order: 1
-};
+---
+layout: layouts/base.njk
 ---
 
 # Dzieje Jednego Serca
